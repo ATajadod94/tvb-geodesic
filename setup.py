@@ -41,7 +41,6 @@ To build::
 """
 
 import os
-import numpy
 import shutil
 import setuptools
 from Cython.Distutils import build_ext
